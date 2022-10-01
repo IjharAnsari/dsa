@@ -1,3 +1,6 @@
+/**
+ * Simple example of hash to find the count of element in string
+ */
 import java.util.Arrays;
 public class ElementCount {
 
